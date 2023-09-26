@@ -10,7 +10,6 @@ The data set is located [here] (https://www.kaggle.com/datasets/karkavelrajaj/am
 * `actual_price` Actual Price of the Product
 * `discount_percentage` Percentage of Discount for the Product
 * `rating` Rating of the Product
-* `rating_count` Number of people who voted for the Amazon rating
 * `about_product` Description about the Product
 * `user_id` ID of the user who wrote review for the Product
 * `user_name` Name of the user who wrote review for the Product
