@@ -2,7 +2,7 @@
 Amazon is an American Tech Multi-National Company whose business interests include E-commerce, where they buy and store the inventory, and take care of everything from shipping and pricing to customer service and returns. 
 This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on Amazon's official website.
 ## The Data Set
-The data set is located [here]([http://www.sqlitetutorial.net/sqlite-sample-database/](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)) and consists of the following Features:
+The data set is located [here]((https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)) and consists of the following Features:
 * `product_id` Product ID
 * `product_name` Name of the Product
 * `category` Category of the Product
