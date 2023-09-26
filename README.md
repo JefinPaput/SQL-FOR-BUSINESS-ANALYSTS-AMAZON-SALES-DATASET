@@ -17,10 +17,11 @@ The data set is located [here] (https://www.kaggle.com/datasets/karkavelrajaj/am
 * `product_link` Official Website Link of the Product
 ## Analyzing the Data
 For this project, I answered the following questions:
-- Which tracks appeared in the most playlists? how many playlist did they appear in?
-
-- Which track generated the most revenue? which album? which genre?
-
-- Which countries have the highest sales revenue? What percent of total revenue does each country make up?
-
-- How many customers did each employee support, what is the average revenue for each sale, and what is their total sale?
+- How many products are there in each category? (Berapa total produk dalam setiap kategori?)
+- Calculate the average discount percentage in each category! (Hitung rata-rata persentase diskon pada setiap kategori!)
+- Which products have the highest ratings? (Produk apa saja yang memiliki rating tertinggi?)
+- Which products have the lowest ratings? (Produk apa saja yang memiliki rating terendah?)
+- Calculate the average rating for each category! (Hitung rata-rata rating untuk setiap kategori!)
+- Sort products that are frequently purchased together! (Urutkan produk yang sering dibeli bersama!)
+- How does the average product rating vary within certain discount percentage ranges? (Bagaimana rata-rata rating produk bervariasi dalam rentang persentase diskon tertentu?)
+- What is the average discount percentage per product category? (Berapa persentase diskon rata-rata per kategori produk?)
