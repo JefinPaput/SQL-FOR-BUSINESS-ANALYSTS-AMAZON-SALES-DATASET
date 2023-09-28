@@ -24,4 +24,3 @@ For this project, I answered the following questions:
 - Calculate the average rating for each category! (Hitung rata-rata rating untuk setiap kategori!)
 - Sort products that are frequently purchased together! (Urutkan produk yang sering dibeli bersama!)
 - How does the average product rating vary within certain discount percentage ranges? (Bagaimana rata-rata rating produk bervariasi dalam rentang persentase diskon tertentu?)
-- What is the average discount percentage per product category? (Berapa persentase diskon rata-rata per kategori produk?)
