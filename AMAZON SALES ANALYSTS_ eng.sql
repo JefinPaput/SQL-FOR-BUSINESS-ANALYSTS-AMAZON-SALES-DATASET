@@ -64,10 +64,3 @@ GROUP BY CASE
         ELSE '50%+'
     END
 ORDER BY rentang_diskon;
-
-/* 8. What is the average discount percentage per product category? (Berapa persentase diskon rata-rata per kategori produk?)*/
-SELECT category,
-AVG(discount_percentage) AS rata_rata_diskon
-FROM [AMAZON].[dbo].[amazon$]
-GROUP BY category
-ORDER BY rata_rata_diskon DESC;
